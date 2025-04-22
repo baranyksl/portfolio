@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hüseyin Baran Yüksel</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header, nav, main, footer {
+      padding: 20px;
+    }
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #333;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hüseyin Baran Yüksel</h1>
+  </header>
+  <nav>
+    <a href="#about">Ben Kimim?</a>
+    <a href="#press">Basın ve Haber</a>
+    <a href="#gallery">Galeri</a>
+    <a href="#contact">İletişim</a>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>Ben Kimim?</h2>
+      <p>Çağ Üniversitesi / Psikoloji</p>
+      <p>Adana - Gaziantep</p>
+    </section>
+    <section id="press">
+      <h2>Basın ve Haber</h2>
+      <p>Yazma serüvenimi anlattığım videoyu izleyebilirsiniz: <a href="https://www.youtube.com/watch?v=CLPCwMB3uSw" target="_blank">Yazma Serüveni</a></p>
+    </section>
+    <section id="gallery">
+      <h2>Galeri</h2>
+      <p>Instagram hesabımda paylaştığım görselleri inceleyebilirsiniz: <a href="https://www.instagram.com/baranyukselofficial/" target="_blank">@baranyukselofficial</a></p>
+    </section>
+    <section id="contact">
+      <h2>İletişim</h2>
+      <p>İletişim için lütfen sosyal medya hesaplarımı kullanınız.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 baranyuksel.com</p>
+  </footer>
+</body>
+</html>
